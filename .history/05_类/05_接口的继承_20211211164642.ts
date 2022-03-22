@@ -1,0 +1,3 @@
+interfece ISwim {
+  swimming() {}
+}

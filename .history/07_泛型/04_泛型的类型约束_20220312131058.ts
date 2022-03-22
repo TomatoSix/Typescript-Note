@@ -1,0 +1,1 @@
+function getLength(arg: string | any[])
